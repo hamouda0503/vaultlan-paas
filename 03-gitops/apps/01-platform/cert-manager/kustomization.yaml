@@ -4,3 +4,4 @@ resources:
   - issuer-ca.yaml
   - letsencrypt-issuer.yaml
   - cloudflare-token-secret.yaml
+  - wildcard-certificate.yaml
