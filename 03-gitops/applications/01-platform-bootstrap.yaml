@@ -21,7 +21,7 @@ metadata:
 spec:
   project: platform
   source:
-    repoURL: https://github.com/SerhiiMyronets/homelab-talos-kubernetes-terraform.git
+    repoURL: https://github.com/hamouda0503/vaultlan-paas.git
     targetRevision: main
     path: 03-gitops/apps/01-platform/cert-manager
   destination:
@@ -38,7 +38,7 @@ metadata:
 spec:
   project: platform
   source:
-    repoURL: https://github.com/SerhiiMyronets/homelab-talos-kubernetes-terraform.git
+    repoURL: https://github.com/hamouda0503/vaultlan-paas.git
     targetRevision: main
     path: 03-gitops/apps/01-platform/cilium
   destination:
@@ -55,7 +55,7 @@ metadata:
 spec:
   project: platform
   source:
-    repoURL: https://github.com/SerhiiMyronets/homelab-talos-kubernetes-terraform.git
+    repoURL: https://github.com/hamouda0503/vaultlan-paas.git
     targetRevision: main
     path: 03-gitops/apps/01-platform/argocd
   destination:
@@ -72,7 +72,7 @@ metadata:
 spec:
   project: platform
   source:
-    repoURL: https://github.com/SerhiiMyronets/homelab-talos-kubernetes-terraform.git
+    repoURL: https://github.com/hamouda0503/vaultlan-paas.git
     targetRevision: main
     path: 03-gitops/apps/01-platform/longhorn
   destination:
