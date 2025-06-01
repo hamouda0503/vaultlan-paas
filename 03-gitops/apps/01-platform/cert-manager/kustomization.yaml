@@ -1,0 +1,6 @@
+resources:
+  - clusterissuer.yaml
+  - certificate.yaml
+  - issuer-ca.yaml
+  - letsencrypt-issuer.yaml
+  - cloudflare-token-secret.yaml
